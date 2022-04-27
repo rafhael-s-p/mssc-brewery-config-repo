@@ -1,2 +1,2 @@
-# SFG Brewery Configuration Repo
+# MSSC Brewery Configuration Repo
 
